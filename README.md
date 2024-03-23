@@ -1,28 +1,18 @@
+# 💻 Projeto: Gestão de Negócios 💻
 
 
-# 💻 Projetos-HTML-CSS- ***Danny's Móveis***💻
-Aprendendo através da realização de pequenos projetos de HTML e CSS
+## Sobre o Projeto
+Este é um projeto simples de uma página web desenvolvido utilizando apenas HTML e CSS, com o objetivo de simular um site  focado na gestão de negócios e metas de projetos.
 
-***"Não desprezem os pequenos começos"***
+## Objetivo
+O principal objetivo deste projeto é praticar habilidades em HTML e CSS, compreendendo os fundamentos dessas linguagens e aplicando-os em um contexto prático de gestão de negócios. Além disso, busco refletir sobre meu aprendizado, identificando áreas de melhoria e pensando em como aplicar esses conhecimentos em projetos futuros.
 
+ ## Demonstração
+ ![image](https://github.com/DannyCMMarques/projectmanagement/assets/147952313/b541dbc9-7d27-42a2-9286-9cf26ce7edb2)
 
- ## Objetivo
+Você pode visualizar a demonstração do site através deste link: 🌠 [Gestão de Negócios](https://projectmanagement.vercel.app/) 🌠
 
-Já dizia o velho provérbio ✨A prática leva a perfeição✨, pensando nisso resolvi começar a compartilhar alguns projetos que desenvolvi nessa jornada rumo a ser Desenvolvedora Front-end  🚀
+## Feedbacks e Aprendizados
+Sinta-se à vontade para compartilhar feedbacks, sugestões de melhorias e trocar aprendizados. O processo de desenvolvimento é contínuo, e estou sempre em busca de aprimoramento.
 
-Meu foco é refletir sobre quais foram meus aprendizados durante essa prática, quais pontos posso melhorar e a partir disso, como aplicar o que foi aprendido em um cenário real, desenvolvendo projetos que façam a diferença. 🎯
-
-Fique a vontade para compartilhar feedbacks e trocar aprendizados 🤍
-
-## Projeto 🛠️
-![image](https://github.com/DannyCMMarques/dannysmoveis/assets/147952313/4f2bd3eb-930a-47e9-8d20-6d9b9ea115c7)
-
--Versão Mobile
-
-  ### Demonstração 📱
-* Acesse esse link para visualizar o site:
-🌠 https://projectmanagement.vercel.app/ 🌠
-
-
-
-  
+🤍 *Obrigada pela visita e pela oportunidade de compartilhar este projeto!* 🤍
